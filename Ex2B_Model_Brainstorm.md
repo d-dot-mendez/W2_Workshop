@@ -5,3 +5,17 @@ Requirements Ideas:
 The end user is our friend named Lana. 
 The categories of data that will be important to track is her clients' name, contact information, and dogs. 
 
+Requirements Ideas:
+The end user is our friend named Lana. 
+The categories of data that will be important to track is her client information and contact information, and their dog information.  
+
+Dog information:
+- Name
+- Age
+- Breed
+
+Client Information:
+- Name
+- Email Address
+- Home Address
+- Phone Number
