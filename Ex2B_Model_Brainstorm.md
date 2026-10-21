@@ -19,3 +19,21 @@ Client Information:
 - Email Address
 - Home Address
 - Phone Number
+
+#Logical Model
+Main Entities:
+- Customer
+- Dog
+- Appointments/Scheduling
+
+  Attributes:
+  - Name
+  - Email Address
+  - Home Address
+  - Phone Number
+  - Dog's Age
+  - Breed
+  - Days
+  - Time
+ 
+  A possible many-to-many relationship could be the table for the dog and the table for the appointments. Some dogs may need to be walked several times a day, meaning a dog can technically have several appointments (especially in one day). And if Lana chooses to, she could walk multiple dogs in one appointment. 
