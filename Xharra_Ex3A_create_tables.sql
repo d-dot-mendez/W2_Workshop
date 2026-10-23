@@ -40,3 +40,4 @@ CREATE TABLE Appointment_Dog (
     FOREIGN KEY (Appointment_ID) REFERENCES Appointment(Appointment_ID),
     FOREIGN KEY (Dog_ID) REFERENCES Dog(Dog_ID)
 );
+
